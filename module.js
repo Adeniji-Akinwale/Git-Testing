@@ -1,2 +1,2 @@
 const greeting = require("./app.js");
-greeting();
+greeting("Akinwale");

@@ -6,6 +6,6 @@
 
 // const sum= sumOfTwo(3,2)
 // console.log(sum)
-module.exports = function greet() {
-  console.log("Hello from file.js!");
+module.exports = function greet(name) {
+  console.log("Hello from", name);
 };
